@@ -20,7 +20,7 @@ React Native Hourly Time Calculator for calculating the duration of time that oc
 React Native Hourly Time Calculator for calculating the duration of time that occured between two times through React Native.
 
 - Website: [joealongi.dev](https://joealongi.dev/)
-- X: [@joealongi](https://twitter.com/joealongi/)
+- X: [@joealongi](https://x.com/joealongi)
 - GitHub: [@joealongi](https://github.com/joealongi/)
 - LinkedIn: [@joe-alongi](https://www.linkedin.com/in/joe-alongi/)
 
@@ -93,7 +93,7 @@ Create a [Expo](https://expo.io/) account, choose a project name, and run Expo l
 
 ##### Bugs and Issues
 
-Having an issue with the template? Report bugs & issues with React Native Hourly Time Calculator on GitHub via [Issues](https://github.com/joealongi/react-native-hourly-time-calculator/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [Twitter](https://twitter.com/joealongi).
+Having an issue with the template? Report bugs & issues with React Native Hourly Time Calculator on GitHub via [Issues](https://github.com/joealongi/react-native-hourly-time-calculator/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [X](https://twitter.com/joealongi).
 
 ##### Acknowledgments
 
